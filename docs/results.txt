@@ -1,0 +1,6 @@
+Results for 100 runs with 100000 people in the corpus Completed in: PT11.661S
+LongSummaryStatistics{count=100, sum=11565, min=100, average=115.650000, max=388}
+Results for 100 runs with 100000 people in the corpus Completed in: PT11.365S
+LongSummaryStatistics{count=100, sum=11263, min=95, average=112.630000, max=402}
+Results for 1000 runs with 100000 people in the corpus Completed in: PT1M48.758S
+LongSummaryStatistics{count=1000, sum=108611, min=93, average=108.611000, max=544}

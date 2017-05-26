@@ -1,0 +1,14 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "description": "Where I test misc stuff out",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Bongiorno",
+  "license": "ISC"
+}
